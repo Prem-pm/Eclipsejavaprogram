@@ -1,4 +1,3 @@
-package logesstellarday3;
 import java.util.*;
 public class Array {
 
