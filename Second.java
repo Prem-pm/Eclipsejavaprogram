@@ -1,4 +1,4 @@
-package logesstellarday3;
+
 
 import java.util.Scanner;
 
